@@ -9,7 +9,7 @@ I'm Oliver Rivera from Mexico, and I'm a Software Engineering Student. I enjoy l
 * 💻 HTML, CSS, JS, Java, c#, Python
 * 🧰 Figma
 
-
+## Current Projects
 - 🔭 I’m currently working on Full Stack Development Project 
 - 🌱 I’m currently learning SQL, AWS Lambda, Swift
 
