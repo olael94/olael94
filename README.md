@@ -14,6 +14,8 @@ I'm Oliver Rivera from Mexico, and I'm a Software Engineering Student. I enjoy l
 - 🌱 I’m currently learning SQL, AWS Lambda, Swift
 
 
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/olael94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oliver-rivera-software-engineer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://olael94-cs-220-portfolio-final-with-correct-template.vercel.app/)  
 
 
