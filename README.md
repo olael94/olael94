@@ -10,8 +10,9 @@ I'm Oliver Rivera from Mexico, and I'm a Software Engineering Student. I enjoy l
 * 🧰 Figma
 
 ## Current Projects
-- 🔭 I’m currently working on Full Stack Development Project 
-- 🌱 I’m currently learning SQL, AWS Lambda, Swift
+- 🔭 I’m currently working on Full Stack Development Project using React, Quarkus and Maven. 
+- 🌱 I’m currently learning AWS Lambda and API Gateway, integrating AWS SAM CLI and DynamoDB
+- 🌱 I’m currently learning to configure and manage SQLite databases for lightweight, high-performance data management in deployed applications
 
 
 
