@@ -1,7 +1,7 @@
 ![Software Engineering](https://media.licdn.com/dms/image/v2/D5616AQG5m9HLDexXlA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727947211664?e=1733356800&v=beta&t=OLfbrSPBGA26P5J5K2qo1e388XzITHeaTqrJUUTH7hU)
 
 # Oliver Rivera
-I'm Oliver Rivera from Mexico, and I'm a Software Engineering Student. I enjoy learning programming languages and frameworks like Python, Java, Swift, and React, as well as spending quality time with my family. I also like doing front end work like wireframing, ux, figma and design.
+I'm Oliver Rivera from Mexico, a Software Engineering Student. I enjoy learning programming languages and frameworks like Python, Java, Swift, and React and spending quality time with my family. I also like doing front-end work like wireframing, ux, figma, and design.
 
 ## Skills and Experience
 * ⚛️ React
