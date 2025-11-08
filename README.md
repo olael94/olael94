@@ -1,7 +1,11 @@
 ![Software Engineering](https://media.licdn.com/dms/image/v2/D5616AQG5m9HLDexXlA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727947211664?e=1733356800&v=beta&t=OLfbrSPBGA26P5J5K2qo1e388XzITHeaTqrJUUTH7hU)
 
 # Oliver Rivera
-I'm Oliver Rivera from Mexico, a Software Engineering Student. I enjoy learning programming languages like Python, Java, Swift, C++, and JavaScript. I also have some experience using frameworks like React and Quarkus. My favorite activity is spending quality time with my family. I also like doing front-end work like wireframing, ux, figma, and design.
+I’m a Software Engineering student with a background in Mechatronics Engineering and Design, passionate about developing innovative, user-centered software that bridges design and engineering. I enjoy tackling challenges that help me expand my skills and explore new technologies.
+
+My focus is on full-stack development using Java, Spring Boot, React, MySQL, and AWS. I have hands-on experience creating RESTful APIs, deploying cloud-based applications, and integrating IoT systems such as the Raspberry Pi. I’m also skilled in software design patterns, test-driven development, and agile methodologies, which help deliver scalable and maintainable solutions.
+
+I’m excited to collaborate with the tech community, contribute to innovative projects, and continue developing as a versatile software engineer who combines design thinking with engineering problem-solving.
 
 ## Skills and Experience
 * ⚛️ React
