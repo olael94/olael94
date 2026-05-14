@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: anuraghazra/github-readme-stats@latest
+      - uses: anuraghazra/github-readme-stats@master
         with:
           USERNAME: olael94
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
