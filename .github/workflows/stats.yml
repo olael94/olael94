@@ -11,20 +11,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate stats card (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=olael94&show_icons=true&hide_border=true
-          path: profile/stats.svg
+          options: username=olael94&show_icons=true&hide_border=true&theme=default
+          path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate stats card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=olael94&show_icons=true&hide_border=true&theme=dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate languages card (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=olael94&layout=compact&hide_border=true
-          path: profile/langs.svg
+          options: username=olael94&layout=compact&hide_border=true&theme=default
+          path: profile/langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate languages card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=olael94&layout=compact&hide_border=true&theme=dark
+          path: profile/langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
